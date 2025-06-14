@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm AbdulSalam
 
-18 y/o student from Pakistan | Exploring **AI** and **Cloud Computing**
+18 y/o student from 🇵🇰 | Exploring **AI** and **Cloud Computing**
 
 ---
 
