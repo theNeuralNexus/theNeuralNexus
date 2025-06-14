@@ -15,8 +15,8 @@
 
 ### 🎯 Interests & Hobbies
 
-- ♟️ Playing chess to sharpen strategic thinking  
-- 📖 Reading self-help, tech, and philosophy books
+- ♟️ Playing chess   
+- 📖 Reading self-help books
 
 ---
 
