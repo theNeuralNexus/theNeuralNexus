@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theneuralnexus" alt="theneuralnexus" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/the_neuralnexus" target="blank"><img src="https://img.shields.io/twitter/follow/the_neuralnexus?logo=twitter&style=for-the-badge" alt="the_neuralnexus" /></a> </p>
-
+---
 - 🔭 I’m currently working on **small projects to solidify my knowledge**
 
 - 🌱 I’m currently learning **Python**
@@ -16,7 +16,7 @@
 - 📫 How to reach me **abdulsalam.network@gmail.com**
 
 - ⚡ Fun fact **I love reading books and playing chess**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_neuralnexus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_neuralnexus" height="30" width="40" /></a>
