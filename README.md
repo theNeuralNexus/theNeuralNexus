@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdulSalam</h1>
-<h3 align="center">A passionate CS student and Developer. I'm intersted in Gen AI and Cloud Technlogies. I want to make scalable and robust applications.</h3>
+<h3 align="center">A passionate CS student and Developer. I'm intersted in Gen AI and Cloud Technologies. I want to make scalable and robust applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theneuralnexus&label=Profile%20views&color=0e75b6&style=flat" alt="theneuralnexus" /> </p>
 
