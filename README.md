@@ -10,6 +10,8 @@
 ---
 - 🔭 I’m currently working on **small projects to solidify my knowledge**
 
+- 🎖️ I'm currently doing **CS50** 
+
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **simple projects**
